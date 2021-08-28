@@ -16,8 +16,8 @@ The javascript file contains the logic of a calendar. It will fetch the system d
 
 ### Created & Maintained By
 
-[Malik Mehrose](https://github.com/iammehrose) ([@iammehrose](https://www.twitter.com/iammehrose)) ([Facebook](https://www.facebook.com/iammehrose))
-([Insta](https://www.instagram.com/iammehrose))
+[Malik Mehrose](https://github.com/iammehrose) ([Twitter](https://www.twitter.com/iammehrose)) ([Facebook](https://www.facebook.com/iammehrose))
+([Instagram](https://www.instagram.com/iammehrose))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
