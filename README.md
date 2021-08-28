@@ -18,6 +18,6 @@ The javascript file contains the logic of a calendar. It will fetch the system d
 
 <hr>
 
-![ss1](https://user-images.githubusercontent.com/64016811/118710304-b984c700-b83b-11eb-9011-081cda3371ab.jpg)
+![Glass Calendar](https://user-images.githubusercontent.com/55852754/131208119-f8e0133f-9dda-42fd-8d33-365344effbc3.png)
 
 ### The web application is hosted at : https://mehrose.xyz/test/Glass/
